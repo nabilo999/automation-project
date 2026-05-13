@@ -63,3 +63,25 @@ OPENAI_API_KEY=your_openai_api_key
 ```bash
 python main.py
 ```
+
+---
+
+# Important File Naming
+
+PDF files in Google Drive must be named using the due date of the reading.
+
+Use this format:
+
+```text
+2026-05-21_filename.pdf
+```
+
+Example:
+
+```text
+2026-05-21_chapter5.pdf
+```
+
+The date should be the actual due date from the syllabus, not the date you want the file delivered. This avoids needing to manually calculate dates later.
+
+---
